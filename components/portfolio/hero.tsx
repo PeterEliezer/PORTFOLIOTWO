@@ -255,7 +255,7 @@ export function Hero() {
               >
                 <div className="w-full h-full rounded-full bg-background flex items-center justify-center overflow-hidden relative">
                   <Image
-                    src="/images/profile-photo.jpg"
+                    src="/images/profile-photo.jpeg"
                     alt="Muvuzankwaya Peter Eliezer"
                     fill
                     className="object-cover"
